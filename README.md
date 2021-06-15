@@ -1,4 +1,6 @@
-# CS-Homework-Dictionary this is a assignment from JAVA class
+# CS-Homework-Dictionary 
+
+This is a assignment from JAVA class!!
 
 Use Java JFrame with action listener created this simple dictionary.
 
